@@ -14,7 +14,7 @@ An end-to-end Machine Learning and NLP project that classifies clinical trial br
 
 ## 📊 Dashboard Features
 1. **🎯 Real-Time Disease Prediction:** Enter clinical summary text to generate the predicted medical category and a probability distribution bar chart.
-2. **📊 In-Depth Clinical EDA:**
+2. **📊 Clinical EDA:**
    - Class imbalance distribution and IQR word count boxplots.
    - Interactive marginal box histogram.
    - Category-wise lexical diversity metrics table.
@@ -26,5 +26,5 @@ An end-to-end Machine Learning and NLP project that classifies clinical trial br
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/clinical-trial-nlp-classification.git
+   git clone [https://github.com/](https://github.com/)<CHITRADEVI-MM>/clinical-trial-nlp-classification.git
    cd clinical-trial-nlp-classification
